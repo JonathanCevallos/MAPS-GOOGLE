@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jonathan/Desktop/MAPSGOOGLE/app/src/main/res/layout/activity_main.xml" value="0.2953125" />
+        <entry key="..\:/Users/Jonathan/Desktop/MAPSGOOGLE/app/src/main/res/layout/item.xml" value="0.28020833333333334" />
+      </map>
+    </option>
+  </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />
   </component>
